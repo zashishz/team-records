@@ -8,15 +8,20 @@ git init
 
 #### To check status
 ```
-git staus
+git status
 ```
-
 
 #### To add files
 ```
 git add <<filename>>
 
-OR
+OR to add all files
 
 git add .
 ```
+
+#### To commit
+```
+git commit -m "Commit message"
+```
+
