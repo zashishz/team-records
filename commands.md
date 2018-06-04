@@ -25,3 +25,17 @@ git add .
 git commit -m "Commit message"
 ```
 
+### To check current branch
+```
+git branch
+```
+
+### to add remote
+```
+git remote add origin https://github.com/zashishz/team-records.git
+```
+
+### to push changes
+```
+git push origin master
+```
